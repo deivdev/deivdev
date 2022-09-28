@@ -2,11 +2,11 @@ Hi, I’m @deivdev and I'm trying to dig into the internet looking for what I lo
 
 The interest are too many...
 - :computer: Software Developing
-- :rocket: Cryptocurrency
+- :tent: Scouting
 - :camera: Taking Videos and pictures of what I do
-- :tent: Scouting and Hiking
 - :sailboat: Sailing
 - :pizza: Eating and Cooking
+- :rocket: Cryptocurrency
 - :airplane: Drones
 - :bike: Electric Scooter
 - :church: Faith
