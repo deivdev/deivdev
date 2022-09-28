@@ -17,7 +17,7 @@ The interest are too many...
 
 
 
-If you want to find out my working tools and setups, you can find it on this repo.
+If you want to find out my working tools and setups, you can find it here: https://github.com/deivdev/dotfiles
 
 <!---
 deivdev/deivdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
