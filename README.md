@@ -11,13 +11,6 @@ The interest are too many...
 - :bike: Electric Scooter
 - :church: Faith
 
-📫 You can reach me on deiv.dev
-
-
-
-
-
-If you want to find out my working tools and setups, you can find it here: https://github.com/deivdev/dotfiles
 
 <!---
 deivdev/deivdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
