@@ -3,9 +3,9 @@ Hi, I’m @deivdev and I'm trying to dig into the internet looking for what I lo
 The interest are too many...
 - :computer: Software Developing
 - :tent: Scouting
-- :camera: Taking Videos and pictures of what I do
-- :sailboat: Sailing
+- :camera: Taking videos and pictures of what I do
 - :pizza: Eating and Cooking
+- :sailboat: Sailing
 - :rocket: Cryptocurrency
 - :airplane: Drones
 - :bike: Electric Scooter
